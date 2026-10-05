@@ -1,0 +1,301 @@
+region,year,median_age,scenario
+North East,2011,41.22,Observed
+North East,2012,41.5,Observed
+North East,2013,41.73,Observed
+North East,2014,41.94,Observed
+North East,2015,42.12,Observed
+North East,2016,42.22,Observed
+North East,2017,42.32,Observed
+North East,2018,42.4,Observed
+North East,2019,42.46,Observed
+North East,2020,42.45,Observed
+North East,2021,42.53,Observed
+North East,2022,42.35,Observed
+North East,2023,42.15,Observed
+North East,2024,42.07,Observed
+North East,2025,42.18,Observed
+North West,2011,40.05,Observed
+North West,2012,40.27,Observed
+North West,2013,40.42,Observed
+North West,2014,40.54,Observed
+North West,2015,40.55,Observed
+North West,2016,40.52,Observed
+North West,2017,40.49,Observed
+North West,2018,40.45,Observed
+North West,2019,40.46,Observed
+North West,2020,40.54,Observed
+North West,2021,40.6,Observed
+North West,2022,40.46,Observed
+North West,2023,40.29,Observed
+North West,2024,40.21,Observed
+North West,2025,40.29,Observed
+Yorkshire and The Humber,2011,39.7,Observed
+Yorkshire and The Humber,2012,39.88,Observed
+Yorkshire and The Humber,2013,40.03,Observed
+Yorkshire and The Humber,2014,40.17,Observed
+Yorkshire and The Humber,2015,40.24,Observed
+Yorkshire and The Humber,2016,40.24,Observed
+Yorkshire and The Humber,2017,40.28,Observed
+Yorkshire and The Humber,2018,40.32,Observed
+Yorkshire and The Humber,2019,40.42,Observed
+Yorkshire and The Humber,2020,40.56,Observed
+Yorkshire and The Humber,2021,40.74,Observed
+Yorkshire and The Humber,2022,40.68,Observed
+Yorkshire and The Humber,2023,40.57,Observed
+Yorkshire and The Humber,2024,40.56,Observed
+Yorkshire and The Humber,2025,40.77,Observed
+East Midlands,2011,40.73,Observed
+East Midlands,2012,40.96,Observed
+East Midlands,2013,41.14,Observed
+East Midlands,2014,41.29,Observed
+East Midlands,2015,41.35,Observed
+East Midlands,2016,41.34,Observed
+East Midlands,2017,41.3,Observed
+East Midlands,2018,41.29,Observed
+East Midlands,2019,41.34,Observed
+East Midlands,2020,41.43,Observed
+East Midlands,2021,41.58,Observed
+East Midlands,2022,41.58,Observed
+East Midlands,2023,41.48,Observed
+East Midlands,2024,41.49,Observed
+East Midlands,2025,41.68,Observed
+West Midlands,2011,39.58,Observed
+West Midlands,2012,39.78,Observed
+West Midlands,2013,39.9,Observed
+West Midlands,2014,39.99,Observed
+West Midlands,2015,40,Observed
+West Midlands,2016,39.94,Observed
+West Midlands,2017,39.91,Observed
+West Midlands,2018,39.92,Observed
+West Midlands,2019,40.03,Observed
+West Midlands,2020,40.19,Observed
+West Midlands,2021,40.34,Observed
+West Midlands,2022,40.29,Observed
+West Midlands,2023,40.12,Observed
+West Midlands,2024,40.01,Observed
+West Midlands,2025,40.17,Observed
+East of England,2011,40.78,Observed
+East of England,2012,40.98,Observed
+East of England,2013,41.14,Observed
+East of England,2014,41.22,Observed
+East of England,2015,41.28,Observed
+East of England,2016,41.3,Observed
+East of England,2017,41.37,Observed
+East of England,2018,41.43,Observed
+East of England,2019,41.5,Observed
+East of England,2020,41.59,Observed
+East of England,2021,41.65,Observed
+East of England,2022,41.78,Observed
+East of England,2023,41.72,Observed
+East of England,2024,41.76,Observed
+East of England,2025,41.93,Observed
+London,2011,33.84,Observed
+London,2012,33.97,Observed
+London,2013,34.15,Observed
+London,2014,34.36,Observed
+London,2015,34.53,Observed
+London,2016,34.72,Observed
+London,2017,34.99,Observed
+London,2018,35.21,Observed
+London,2019,35.37,Observed
+London,2020,35.67,Observed
+London,2021,35.92,Observed
+London,2022,35.92,Observed
+London,2023,35.83,Observed
+London,2024,35.91,Observed
+London,2025,36.16,Observed
+South East,2011,40.55,Observed
+South East,2012,40.77,Observed
+South East,2013,40.95,Observed
+South East,2014,41.12,Observed
+South East,2015,41.2,Observed
+South East,2016,41.26,Observed
+South East,2017,41.37,Observed
+South East,2018,41.48,Observed
+South East,2019,41.62,Observed
+South East,2020,41.74,Observed
+South East,2021,41.84,Observed
+South East,2022,41.95,Observed
+South East,2023,41.9,Observed
+South East,2024,41.97,Observed
+South East,2025,42.17,Observed
+South West,2011,42.66,Observed
+South West,2012,42.91,Observed
+South West,2013,43.09,Observed
+South West,2014,43.3,Observed
+South West,2015,43.43,Observed
+South West,2016,43.52,Observed
+South West,2017,43.65,Observed
+South West,2018,43.78,Observed
+South West,2019,43.92,Observed
+South West,2020,44,Observed
+South West,2021,44.06,Observed
+South West,2022,43.96,Observed
+South West,2023,43.88,Observed
+South West,2024,43.91,Observed
+South West,2025,44.11,Observed
+Wales,2011,41.48,Observed
+Wales,2012,41.72,Observed
+Wales,2013,42.01,Observed
+Wales,2014,42.28,Observed
+Wales,2015,42.48,Observed
+Wales,2016,42.64,Observed
+Wales,2017,42.74,Observed
+Wales,2018,42.83,Observed
+Wales,2019,42.93,Observed
+Wales,2020,42.96,Observed
+Wales,2021,43.05,Observed
+Wales,2022,42.97,Observed
+Wales,2023,42.9,Observed
+Wales,2024,42.98,Observed
+Wales,2025,43.21,Observed
+North East,2011,41.22,No migration since mid-2011
+North East,2012,41.47,No migration since mid-2011
+North East,2013,41.69,No migration since mid-2011
+North East,2014,41.92,No migration since mid-2011
+North East,2015,42.05,No migration since mid-2011
+North East,2016,42.14,No migration since mid-2011
+North East,2017,42.21,No migration since mid-2011
+North East,2018,42.27,No migration since mid-2011
+North East,2019,42.32,No migration since mid-2011
+North East,2020,42.33,No migration since mid-2011
+North East,2021,42.45,No migration since mid-2011
+North East,2022,42.6,No migration since mid-2011
+North East,2023,42.76,No migration since mid-2011
+North East,2024,42.94,No migration since mid-2011
+North East,2025,43.12,No migration since mid-2011
+North West,2011,40.05,No migration since mid-2011
+North West,2012,40.27,No migration since mid-2011
+North West,2013,40.45,No migration since mid-2011
+North West,2014,40.62,No migration since mid-2011
+North West,2015,40.72,No migration since mid-2011
+North West,2016,40.81,No migration since mid-2011
+North West,2017,40.87,No migration since mid-2011
+North West,2018,40.9,No migration since mid-2011
+North West,2019,40.99,No migration since mid-2011
+North West,2020,41.09,No migration since mid-2011
+North West,2021,41.26,No migration since mid-2011
+North West,2022,41.41,No migration since mid-2011
+North West,2023,41.57,No migration since mid-2011
+North West,2024,41.77,No migration since mid-2011
+North West,2025,41.97,No migration since mid-2011
+Yorkshire and The Humber,2011,39.7,No migration since mid-2011
+Yorkshire and The Humber,2012,39.92,No migration since mid-2011
+Yorkshire and The Humber,2013,40.1,No migration since mid-2011
+Yorkshire and The Humber,2014,40.26,No migration since mid-2011
+Yorkshire and The Humber,2015,40.37,No migration since mid-2011
+Yorkshire and The Humber,2016,40.47,No migration since mid-2011
+Yorkshire and The Humber,2017,40.54,No migration since mid-2011
+Yorkshire and The Humber,2018,40.59,No migration since mid-2011
+Yorkshire and The Humber,2019,40.72,No migration since mid-2011
+Yorkshire and The Humber,2020,40.86,No migration since mid-2011
+Yorkshire and The Humber,2021,41.07,No migration since mid-2011
+Yorkshire and The Humber,2022,41.26,No migration since mid-2011
+Yorkshire and The Humber,2023,41.44,No migration since mid-2011
+Yorkshire and The Humber,2024,41.65,No migration since mid-2011
+Yorkshire and The Humber,2025,41.86,No migration since mid-2011
+East Midlands,2011,40.73,No migration since mid-2011
+East Midlands,2012,41.02,No migration since mid-2011
+East Midlands,2013,41.28,No migration since mid-2011
+East Midlands,2014,41.54,No migration since mid-2011
+East Midlands,2015,41.73,No migration since mid-2011
+East Midlands,2016,41.88,No migration since mid-2011
+East Midlands,2017,42,No migration since mid-2011
+East Midlands,2018,42.09,No migration since mid-2011
+East Midlands,2019,42.19,No migration since mid-2011
+East Midlands,2020,42.24,No migration since mid-2011
+East Midlands,2021,42.36,No migration since mid-2011
+East Midlands,2022,42.51,No migration since mid-2011
+East Midlands,2023,42.67,No migration since mid-2011
+East Midlands,2024,42.85,No migration since mid-2011
+East Midlands,2025,43.01,No migration since mid-2011
+West Midlands,2011,39.58,No migration since mid-2011
+West Midlands,2012,39.8,No migration since mid-2011
+West Midlands,2013,39.96,No migration since mid-2011
+West Midlands,2014,40.12,No migration since mid-2011
+West Midlands,2015,40.22,No migration since mid-2011
+West Midlands,2016,40.31,No migration since mid-2011
+West Midlands,2017,40.37,No migration since mid-2011
+West Midlands,2018,40.42,No migration since mid-2011
+West Midlands,2019,40.54,No migration since mid-2011
+West Midlands,2020,40.66,No migration since mid-2011
+West Midlands,2021,40.83,No migration since mid-2011
+West Midlands,2022,40.99,No migration since mid-2011
+West Midlands,2023,41.14,No migration since mid-2011
+West Midlands,2024,41.31,No migration since mid-2011
+West Midlands,2025,41.48,No migration since mid-2011
+East of England,2011,40.78,No migration since mid-2011
+East of England,2012,41.06,No migration since mid-2011
+East of England,2013,41.31,No migration since mid-2011
+East of England,2014,41.57,No migration since mid-2011
+East of England,2015,41.76,No migration since mid-2011
+East of England,2016,41.93,No migration since mid-2011
+East of England,2017,42.09,No migration since mid-2011
+East of England,2018,42.21,No migration since mid-2011
+East of England,2019,42.35,No migration since mid-2011
+East of England,2020,42.44,No migration since mid-2011
+East of England,2021,42.57,No migration since mid-2011
+East of England,2022,42.74,No migration since mid-2011
+East of England,2023,42.92,No migration since mid-2011
+East of England,2024,43.12,No migration since mid-2011
+East of England,2025,43.31,No migration since mid-2011
+London,2011,33.84,No migration since mid-2011
+London,2012,34.25,No migration since mid-2011
+London,2013,34.69,No migration since mid-2011
+London,2014,35.16,No migration since mid-2011
+London,2015,35.63,No migration since mid-2011
+London,2016,36.1,No migration since mid-2011
+London,2017,36.59,No migration since mid-2011
+London,2018,37.08,No migration since mid-2011
+London,2019,37.59,No migration since mid-2011
+London,2020,38.08,No migration since mid-2011
+London,2021,38.58,No migration since mid-2011
+London,2022,39.1,No migration since mid-2011
+London,2023,39.62,No migration since mid-2011
+London,2024,40.14,No migration since mid-2011
+London,2025,40.66,No migration since mid-2011
+South East,2011,40.55,No migration since mid-2011
+South East,2012,40.84,No migration since mid-2011
+South East,2013,41.12,No migration since mid-2011
+South East,2014,41.39,No migration since mid-2011
+South East,2015,41.62,No migration since mid-2011
+South East,2016,41.83,No migration since mid-2011
+South East,2017,42.02,No migration since mid-2011
+South East,2018,42.19,No migration since mid-2011
+South East,2019,42.37,No migration since mid-2011
+South East,2020,42.51,No migration since mid-2011
+South East,2021,42.69,No migration since mid-2011
+South East,2022,42.89,No migration since mid-2011
+South East,2023,43.1,No migration since mid-2011
+South East,2024,43.32,No migration since mid-2011
+South East,2025,43.53,No migration since mid-2011
+South West,2011,42.66,No migration since mid-2011
+South West,2012,42.91,No migration since mid-2011
+South West,2013,43.14,No migration since mid-2011
+South West,2014,43.41,No migration since mid-2011
+South West,2015,43.63,No migration since mid-2011
+South West,2016,43.83,No migration since mid-2011
+South West,2017,44.01,No migration since mid-2011
+South West,2018,44.13,No migration since mid-2011
+South West,2019,44.26,No migration since mid-2011
+South West,2020,44.34,No migration since mid-2011
+South West,2021,44.4,No migration since mid-2011
+South West,2022,44.43,No migration since mid-2011
+South West,2023,44.51,No migration since mid-2011
+South West,2024,44.65,No migration since mid-2011
+South West,2025,44.83,No migration since mid-2011
+Wales,2011,41.48,No migration since mid-2011
+Wales,2012,41.7,No migration since mid-2011
+Wales,2013,41.92,No migration since mid-2011
+Wales,2014,42.14,No migration since mid-2011
+Wales,2015,42.28,No migration since mid-2011
+Wales,2016,42.38,No migration since mid-2011
+Wales,2017,42.45,No migration since mid-2011
+Wales,2018,42.48,No migration since mid-2011
+Wales,2019,42.54,No migration since mid-2011
+Wales,2020,42.55,No migration since mid-2011
+Wales,2021,42.61,No migration since mid-2011
+Wales,2022,42.72,No migration since mid-2011
+Wales,2023,42.87,No migration since mid-2011
+Wales,2024,43.04,No migration since mid-2011
+Wales,2025,43.2,No migration since mid-2011
